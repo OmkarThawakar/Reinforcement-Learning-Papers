@@ -27,6 +27,8 @@ Any suggestions and pull requests are welcome.
   * [**Deep Recurrent Q-Learning for Partially Observable MDPs**](http://arxiv.org/abs/1507.06527), M. Hausknecht and P. Stone, *arXiv*, 2015.
   * [**Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models**](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
   * [**End-to-End Training of Deep Visuomotor Policies**](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
+  * [**DeepMPC: Learning Deep Latent Features for
+Model Predictive Control**](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, et al., *RSS*, 2015.
   * [**Universal Value Function Approximators**](http://schaul.site44.com/publications/uvfa.pdf), T. Schaul et al., *ICML*, 2015.
   * [**Massively Parallel Methods for Deep Reinforcement Learning**](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/gorila.pdf), A. Nair et al., *ICML Workshop*, 2015.
   * [**Trust Region Policy Optimization**](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
@@ -74,6 +76,8 @@ Any suggestions and pull requests are welcome.
   * [**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
   * [**Continuous control with deep reinforcement learning**](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *arXiv*, 2015.
   * [**End-to-End Training of Deep Visuomotor Policies**](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
+  * [**DeepMPC: Learning Deep Latent Features for
+Model Predictive Control**](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, et al., *RSS*, 2015.
   * [**Trust Region Policy Optimization**](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
 ## Text Domain
@@ -97,6 +101,8 @@ Any suggestions and pull requests are welcome.
 
 ## Robotics
   * [**End-to-End Training of Deep Visuomotor Policies**](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
+  * [**DeepMPC: Learning Deep Latent Features for
+Model Predictive Control**](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, et al., *RSS*, 2015.
   * [**Trust Region Policy Optimization**](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
 ## Games
