@@ -12,11 +12,10 @@ Any suggestions and pull requests are welcome.
   * [Improving Exploration](#improving-exploration)
   * [Discrete Control](#discrete-control)
   * [Continuous Control](#continuous-control)
-  * [Text domain](#text-domain)
-  * [Visual domain](#visual-domain)
+  * [Text Domain](#text-domain)
+  * [Visual Domain](#visual-domain)
   * [Robotics](#robotics)
   * [Games](#games)
-  * [Theoertical Papers](#theoertical-papers)
 
 ## All Papers
   * [**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
@@ -77,10 +76,10 @@ Any suggestions and pull requests are welcome.
   * [**End-to-End Training of Deep Visuomotor Policies**](http://arxiv.org/abs/1504.00702), S. Levine et al., *arXiv*, 2015.
   * [**Trust Region Policy Optimization**](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
-## Text domain
+## Text Domain
   * [**Language Understanding for Text-based Games Using Deep Reinforcement Learning**](http://people.csail.mit.edu/karthikn/pdfs/mud-play15.pdf), K. Narasimhan et al., *EMNLP*, 2015.
 
-## Visual domain
+## Visual Domain
   * [**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
   * [**Deep reinforcement learning with double q-learning**](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
   * [**Continuous control with deep reinforcement learning**](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *arXiv*, 2015.
