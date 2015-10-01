@@ -4,19 +4,19 @@ The papers are organized based on bookmarks and sorted by time. <br>
 Any suggestions and pull requests are welcome.
 
 # Bookmarks
-  * [Q-learning](Q-learning)
-  * [Policy Gradient](Policy Gradient)
-  * [Monte-Carlo Tree Search](Monte-Carlo Tree Search)
-  * [Improving Exploration](Improving Exploration)
-  * [Discrete Control](Discrete Control)
-  * [Continuous Control](Continuous Control)
-  * [Text domain](Text domain)
-  * [Visual domain](Visual domain)
-  * [Robotics](Robotics)
-  * [Games](Games)
-  * [Theoertical Papers](Theoertical Papers)
+  * [Q-learning](#q-learning)
+  * [Policy Gradient](#policy-gradient)
+  * [Monte-Carlo Tree Search](#monte-carlo-tree-search)
+  * [Improving Exploration](#improving-exploration)
+  * [Discrete Control](#discrete-control)
+  * [Continuous Control](#continuous-control)
+  * [Text domain](#text-domain)
+  * [Visual domain](#visual-domain)
+  * [Robotics](#robotics)
+  * [Games](#games)
+  * [Theoertical Papers](#theoertical-papers)
 
-# All Papers (sorted by year)
+## All Papers (sorted by year)
   * [**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
   * [**Deep reinforcement learning with double q-learning**](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
   * [**Continuous control with deep reinforcement learning**](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *arXiv*, 2015.
