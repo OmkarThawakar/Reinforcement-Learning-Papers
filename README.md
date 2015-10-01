@@ -4,6 +4,7 @@ The papers are organized based on bookmarks and sorted by time. <br>
 Any suggestions and pull requests are welcome.
 
 # Bookmarks
+  * [All Papers](#all-papers)
   * [Q-learning](#q-learning)
   * [Policy Gradient](#policy-gradient)
   * [Monte-Carlo Tree Search](#monte-carlo-tree-search)
@@ -16,7 +17,7 @@ Any suggestions and pull requests are welcome.
   * [Games](#games)
   * [Theoertical Papers](#theoertical-papers)
 
-## All Papers (sorted by year)
+## All Papers
   * [**Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning**](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
   * [**Deep reinforcement learning with double q-learning**](http://arxiv.org/abs/1509.06461), H. van Hasselt et al., *arXiv*, 2015.
   * [**Continuous control with deep reinforcement learning**](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *arXiv*, 2015.
