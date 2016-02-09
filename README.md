@@ -21,7 +21,7 @@ Any suggestions and pull requests are welcome.
   * [Multi-Agent](#multi-agent)
 
 ## All Papers
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
   * [Memory-based control with recurrent neural networks](arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
@@ -64,7 +64,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Value Function Approximation
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
   * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
   * [Strategic Dialogue Management via Deep Reinforcement Learning](arxiv.org/abs/1511.08099), H. Cuayáhuitl et al., *NIPS Workshop*, 2015.
@@ -87,7 +87,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Policy Gradient
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
   * [Memory-based control with recurrent neural networks](arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [MazeBase: A Sandbox for Learning from Games](arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016.
@@ -100,7 +100,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
 ## Discrete Control
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
   * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
   * [Strategic Dialogue Management via Deep Reinforcement Learning](arxiv.org/abs/1511.08099), H. Cuayáhuitl et al., *NIPS Workshop*, 2015.
@@ -131,7 +131,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Continuous Control
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Memory-based control with recurrent neural networks](arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
   * [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), T. P. Lillicrap et al., *ICLR*, 2016.
@@ -153,7 +153,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089), H. Mei et al., *arXiv*, 2015.
 
 ## Visual Domain
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
   * [Memory-based control with recurrent neural networks](arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
@@ -182,7 +182,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Robotics
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Memory-based control with recurrent neural networks](arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
   * [Learning Continuous Control Policies by Stochastic Value Gradients](http://papers.nips.cc/paper/5796-learning-continuous-control-policies-by-stochastic-value-gradients.pdf), N. Heess et al., *NIPS*, 2015.
@@ -194,7 +194,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
 ## Games
-  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih, *arXiv*, 2016.
+  * [Asynchronous Methods for Deep Reinforcement Learning](arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., *Nature*, 2016.
   * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
   * [MazeBase: A Sandbox for Learning from Games](arxiv.org/abs/1511.07401), S. Sukhbaatar et al., *arXiv*, 2016.
