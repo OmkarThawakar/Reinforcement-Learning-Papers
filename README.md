@@ -21,6 +21,7 @@ Any suggestions and pull requests are welcome.
   * [Multi-Agent](#multi-agent)
 
 ## All Papers
+  * [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), Shixiang Gu et al., *arXiv*, 2016.
   * [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
   * [Value Iteration Networks](http://arxiv.org/abs/1602.02867), A. Tamar et al., *arXiv*, 2016.
   * [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
@@ -69,6 +70,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Value Function Approximation
+  * [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), Shixiang Gu et al., *arXiv*, 2016.
   * [Deep Exploration via Bootstrapped DQN](http://arxiv.org/abs/1602.04621), I. Osband et al., *arXiv*, 2016.
   * [Value Iteration Networks](http://arxiv.org/abs/1602.02867), A. Tamar et al., *arXiv*, 2016.
   * [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016.
@@ -146,6 +148,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Continuous Control
+  * [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), Shixiang Gu et al., *arXiv*, 2016.
   * [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Memory-based control with recurrent neural networks](http://arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](http://arxiv.org/abs/1509.08731), S. Mohamed and D. J. Rezende, *arXiv*, 2015.
@@ -201,6 +204,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Robotics
+  * [Continuous Deep Q-Learning with Model-based Acceleration](http://arxiv.org/abs/1603.00748), Shixiang Gu et al., *arXiv*, 2016.
   * [Asynchronous Methods for Deep Reinforcement Learning](http://arxiv.org/abs/1602.01783), V. Mnih et al., *arXiv*, 2016.
   * [Memory-based control with recurrent neural networks](http://arxiv.org/abs/1512.04455), N. Heess et al., *NIPS Workshop*, 2015.
   * [Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control](http://arxiv.org/abs/1511.03791), F. Zhang et al., *arXiv*, 2015.
