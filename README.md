@@ -22,6 +22,8 @@ Any suggestions and pull requests are welcome.
   * [Hierarchical Learning](#hierarchical-learning)
 
 ## All Papers
+  * [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
+  * [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
   * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
   * [Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks](http://arxiv.org/abs/1605.09674), R. Houthooft et al., *arXiv*, 2016.
   * [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
@@ -79,6 +81,8 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf), V. Mnih et al., *NIPS Workshop*, 2013.
 
 ## Value
+  * [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
+  * [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
   * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
   * [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
   * [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
@@ -129,6 +133,8 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
 ## Discrete Control
+  * [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
+  * [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
   * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
   * [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
   * [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
@@ -196,6 +202,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences](http://arxiv.org/abs/1506.04089), H. Mei et al., *arXiv*, 2015.
 
 ## Visual Domain
+  * [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
   * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
   * [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
   * [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
@@ -251,6 +258,8 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Trust Region Policy Optimization](http://jmlr.org/proceedings/papers/v37/schulman15.pdf), J. Schulman et al., *ICML*, 2015.
 
 ## Games
+  * [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647), R. Munos et al., *arXiv*, 2016.
+  * [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
   * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868), M. G. Bellemare et al., *arXiv*, 2016.
   * [Control of Memory, Active Perception, and Action in Minecraft](http://arxiv.org/abs/1605.09128), J. Oh et al., *ICML*, 2016.
   * [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
@@ -313,5 +322,6 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Multiagent Cooperation and Competition with Deep Reinforcement Learning](http://arxiv.org/abs/1511.08779), A. Tampuu et al., *arXiv*, 2015.
  
 ## Hierarchical Learning
+  * [Deep Successor Reinforcement Learning](http://arxiv.org/abs/1606.02396), T. D. Kulkarni et al., *arXiv*, 2016.
   * [Hierarchical Reinforcement Learning using Spatio-Temporal Abstractions and Deep Neural Networks](https://arxiv.org/abs/1605.05359), R. Krishnamurthy et al., *arXiv*, 2016.
   * [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057), T. D. Kulkarni et al., *arXiv*, 2016.
